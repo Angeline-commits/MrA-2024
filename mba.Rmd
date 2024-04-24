@@ -21,5 +21,3 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](/MrA-2024/images/mba/Slide9.PNG) 
 
 ![](/MrA-2024/images/mba/Slide10.PNG) 
-
-
