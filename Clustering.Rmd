@@ -9,4 +9,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](/images/clustering/Slide1.PNG)
+![](/MrA-2024/images/clustering/Slide1.png)
+
+![](/MrA-2024/images/clustering/Slide2.png)
+
+![](/MrA-2024/images/clustering/Slide3.png)
