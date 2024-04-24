@@ -9,8 +9,33 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](/MrA-2024/images/clustering/Slide1.png)
+![](/MrA-2024/images/clustering/Slide1.PNG)
 
-![](/MrA-2024/images/clustering/Slide2.png)
+![](/MrA-2024/images/clustering/Slide2.PNG)
 
-![](/MrA-2024/images/clustering/Slide3.png)
+![](/MrA-2024/images/clustering/Slide3.PNG)
+
+![](/MrA-2024/images/clustering/Slide4.PNG)
+
+![](/MrA-2024/images/clustering/Slide5.PNG)
+
+![](/MrA-2024/images/clustering/Slide6.PNG)
+
+![](/MrA-2024/images/clustering/Slide7.PNG)
+
+![](/MrA-2024/images/clustering/Slide8.PNG)
+
+![](/MrA-2024/images/clustering/Slide9.PNG)
+
+![](/MrA-2024/images/clustering/Slide10.PNG)
+
+![](/MrA-2024/images/clustering/Slide11.PNG)
+
+![](/MrA-2024/images/clustering/Slide12.PNG)
+
+![](/MrA-2024/images/clustering/Slide13.PNG)
+
+![](/MrA-2024/images/clustering/Slide14.PNG)
+
+![](/MrA-2024/images/clustering/Slide15.PNG)
+
