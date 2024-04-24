@@ -14,3 +14,9 @@ title: ' '
 <p><strong>CLTV</strong> <a href="CLTV.html" target="_blank" rel="noopener">CLTV</a>  </p>
 </li>
 </ul>
+
+<ul>
+<li>
+<p><strong>Logistic</strong> <a href="Logistic.html" target="_blank" rel="noopener">Logistic Regression</a>  </p>
+</li>
+</ul>

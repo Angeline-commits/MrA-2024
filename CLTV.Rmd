@@ -2,4 +2,20 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](images/cltv/Slide1.png) ![](images/cltv/Slide2.png) ![](images/cltv/Slide3.png) ![](images/cltv/Slide4.png) ![](images/cltv/Slide5.png) ![](images/cltv/Slide6.png) ![](images/cltv/Slide7.png) 
+![](/MrA-2024/images/cltv/Slide1.PNG) 
+
+![](/MrA-2024/images/cltv/Slide2.PNG) 
+
+![](/MrA-2024/images/cltv/Slide3.PNG) 
+
+![](/MrA-2024/images/cltv/Slide4.PNG) 
+
+![](/MrA-2024/images/cltv/Slide5.PNG) 
+
+![](/MrA-2024/images/cltv/Slide6.PNG) 
+
+![](/MrA-2024/images/cltv/Slide7.PNG) 
+
+<div id="footer">
+<p>Copyright &copy; 2024,  Angeline Fernando,  All rights reserved.</p>
+</div>
