@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](/MrA-2024/images/logit/Slide7.PNG) 
 
-![](/MrA-2024/images/logit/Slide7.PNG) 
+![](/MrA-2024/images/logit/Slide8.PNG) 
 
 <div id="footer">
 <p>Copyright &copy; 2024,  Angeline Fernando,  All rights reserved.</p>

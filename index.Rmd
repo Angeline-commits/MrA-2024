@@ -20,3 +20,9 @@ title: ' '
 <p><strong>Logistic</strong> <a href="Logistic.html" target="_blank" rel="noopener">Logistic Regression</a>  </p>
 </li>
 </ul>
+
+<ul>
+<li>
+<p><strong>MBA</strong> <a href="mba.html" target="_blank" rel="noopener">Market Basket</a>  </p>
+</li>
+</ul>

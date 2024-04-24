@@ -1,0 +1,27 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/MrA-2024/images/mba/Slide1.PNG) 
+
+![](/MrA-2024/images/mba/Slide2.PNG) 
+
+![](/MrA-2024/images/mba/Slide3.PNG) 
+
+![](/MrA-2024/images/mba/Slide4.PNG) 
+
+![](/MrA-2024/images/mba/Slide5.PNG) 
+
+![](/MrA-2024/images//mba/Slide6.PNG) 
+
+![](/MrA-2024/images/mba/Slide7.PNG) 
+
+![](/MrA-2024/images/mba/Slide8.PNG) 
+
+![](/MrA-2024/images/mba/Slide9.PNG) 
+
+![](/MrA-2024/images/mba/Slide10.PNG) 
+
+<div id="footer">
+<p>Copyright &copy; 2024,  Angeline Fernando,  All rights reserved.</p>
+</div>
