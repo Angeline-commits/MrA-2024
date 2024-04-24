@@ -22,6 +22,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](/MrA-2024/images/mba/Slide10.PNG) 
 
-<div id="footer">
-<p>Copyright &copy; 2024,  Angeline Fernando,  All rights reserved.</p>
-</div>
+
