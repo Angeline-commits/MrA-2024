@@ -9,9 +9,4 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r , echo=FALSE}
-knitr::include_graphics("./images/Clustering/Slide1.png")
-```
-```{r , echo=FALSE}
-knitr::include_graphics("./images/Clustering/Slide2.png")
-```
+![](images/clustering/Slide1.png)
