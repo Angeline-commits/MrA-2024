@@ -14,4 +14,8 @@ title: ' '
 </script>
 </head>
 
-This website is for marketing analytics material
+<ul>
+<li>
+<p><strong>Clustering</strong> <a href="Clustering.html" target="_blank" rel="noopener">Clustering </a>  </p>
+</li>
+</ul>
