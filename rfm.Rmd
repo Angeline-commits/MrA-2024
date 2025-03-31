@@ -1,0 +1,36 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/MrA-2024/images/rfm/Slide1.PNG)
+
+![](/MrA-2024/images/rfm/Slide2.PNG)
+
+![](/MrA-2024/images/rfm/Slide3.PNG)
+
+![](/MrA-2024/images/rfm/Slide4.PNG)
+
+![](/MrA-2024/images/rfm/Slide5.PNG)
+
+![](/MrA-2024/images/rfm/Slide6.PNG)
+
+![](/MrA-2024/images/rfm/Slide7.PNG)
+
+![](/MrA-2024/images/rfm/Slide8.PNG)
+
+![](/MrA-2024/images/rfm/Slide9.PNG)
+
+![](/MrA-2024/images/rfm/Slide10.PNG)
+
+
+
+<div id="footer">
+<p>Copyright &copy; 2025,  Angeline Fernando,  All rights reserved.</p>
+</div>
