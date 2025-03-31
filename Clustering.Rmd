@@ -1,0 +1,54 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/MrA-2024/images/clustering/Slide1.PNG)
+
+![](/MrA-2024/images/clustering/Slide2.PNG)
+
+![](/MrA-2024/images/clustering/Slide3.PNG)
+
+![](/MrA-2024/images/clustering/Slide4.PNG)
+
+![](/MrA-2024/images/clustering/Slide5.PNG)
+
+![](/MrA-2024/images/clustering/Slide6.PNG)
+
+![](/MrA-2024/images/clustering/Slide7.PNG)
+
+![](/MrA-2024/images/clustering/Slide8.PNG)
+
+![](/MrA-2024/images/clustering/Slide9.PNG)
+
+![](/MrA-2024/images/clustering/Slide10.PNG)
+
+![](/MrA-2024/images/clustering/Slide11.PNG)
+
+![](/MrA-2024/images/clustering/Slide12.PNG)
+
+![](/MrA-2024/images/clustering/Slide13.PNG)
+
+![](/MrA-2024/images/clustering/Slide14.PNG)
+
+![](/MrA-2024/images/clustering/Slide15.PNG)
+
+![](/MrA-2024/images/clustering/Slide16.PNG)
+
+![](/MrA-2024/images/clustering/Slide17.PNG)
+
+![](/MrA-2024/images/clustering/Slide18.PNG)
+
+![](/MrA-2024/images/clustering/Slide22.PNG)
+
+![](/MrA-2024/images/clustering/Slide23.PNG)
+
+<div id="footer">
+<p>Copyright &copy; 2025,  Angeline Fernando,  All rights reserved.</p>
+</div>
