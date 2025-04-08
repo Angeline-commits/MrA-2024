@@ -2,43 +2,41 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](/MrA-2024/images/cltv/Slide1.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide1.PNG) 
 
-![](/MrA-2024/images/cltv/Slide2.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide2.PNG) 
 
-![](/MrA-2024/images/cltv/Slide3.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide3.PNG) 
 
-![](/MrA-2024/images/cltv/Slide4.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide4.PNG) 
 
-![](/MrA-2024/images/cltv/Slide5.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide5.PNG) 
 
-![](/MrA-2024/images/cltv/Slide6.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide6.PNG) 
 
-![](/MrA-2024/images/cltv/Slide7.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide7.PNG) 
  
-![](/MrA-2024/images/cltv/Slide8.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide8.PNG) 
 
-![](/MrA-2024/images/cltv/Slide9.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide9.PNG) 
 
-![](/MrA-2024/images/cltv/Slide10.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide10.PNG) 
 
-![](/MrA-2024/images/cltv/Slide11.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide11.PNG) 
 
-![](/MrA-2024/images/cltv/Slide12.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide12.PNG) 
 
-![](/MrA-2024/images/cltv/Slide13.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide13.PNG) 
 
-![](/MrA-2024/images/cltv/Slide14.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide14.PNG) 
 
-![](/MrA-2024/images/cltv/Slide15.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide15.PNG) 
 
-![](/MrA-2024/images/cltv/Slide16.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide16.PNG) 
 
-![](/MrA-2024/images/cltv/Slide17.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide17.PNG) 
 
-![](/MrA-2024/images/cltv/Slide18.PNG) 
+![](/MrA-2024/images/cltv-summarised/Slide18.PNG) 
  
 
-<div id="footer">
-<p>Copyright &copy; 2025,  Angeline Fernando,  All rights reserved.</p>
-</div>
+
