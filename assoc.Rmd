@@ -1,0 +1,24 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/MrA-2024/images/assoc/Slide1.PNG) 
+
+![](/MrA-2024/images/assoc/Slide2.PNG) 
+
+![](/MrA-2024/images/assoc/Slide3.PNG) 
+
+![](/MrA-2024/images/assoc/Slide4.PNG) 
+
+![](/MrA-2024/images/assoc/Slide5.PNG) 
+
+![](/MrA-2024/images/assoc/Slide6.PNG) 
+
+![](/MrA-2024/images/assoc/Slide7.PNG) 
+ 
+![](/MrA-2024/images/assoc/Slide8.PNG) 
+
+
+ 
+
+
